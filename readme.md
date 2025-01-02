@@ -1,3 +1,7 @@
+## annotation_project
+
+Ce projet convertit des masques binaires de segmentation en fichiers .txt contient labels
+
 # Segmentation to Polygon Labels
 
 Ce projet convertit des masques binaires de segmentation en fichiers de polygones compatibles avec des frameworks d'annotation.
