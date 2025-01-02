@@ -1,13 +1,14 @@
-# annotation_project
-Ce projet convertit des masques binaires de segmentation en fichiers .txt contient labels
-
 # Segmentation to Polygon Labels
 
-Ce projet convertit des masques binaires de segmentation en fichiers de polygones compatibles avec des frameworks d'annotation.
+Ce projet automatise la conversion des masques binaires de segmentation en fichiers .txt contenant des labels sous forme de coordonnées de polygones normalisées. Cette approche est conçue pour simplifier et accélérer les processus d'annotation dans des frameworks de vision par ordinateur.
+## Avantages
+Gain de Temps :Automatisation complète du processus, évitant l'annotation manuelle fastidieuse dans des outils comme Roboflow.
+Compatibilité : Les fichiers générés sont compatibles avec de nombreux frameworks d'entraînement et d'annotation d'images.
+Facilité d'Utilisation : Intégration avec Google Colab et Google Drive pour une gestion simplifiée des fichiers.
+Précision : Génération automatique de coordonnées précises, réduisant les erreurs humaines.
 
 ## But du Projet
-
-Transformer des masques de segmentation en coordonnées de polygones normalisées dans des fichiers txt  pour des tâches de labellisation dans le domaine de la vision par ordinateur.
+Transformer des masques de segmentation en coordonnées de polygones normalisées dans des fichiers txt  pour des tâches de labellisation dans le domaine de la vision par ordinateur pour des modèles d'apprentissage supervisé.Ces fichiers .txt sont essentiels pour les applications nécessitant des annotations basées sur des polygones
 
 ## Technologies Utilisées
 
